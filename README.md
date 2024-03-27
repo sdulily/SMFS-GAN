@@ -1,5 +1,8 @@
 # SMFS-GAN
 
+official Pytorch implementation of "SMFS-GAN: Style-Guided Multiclass Freehand Sketch-to-Image
+Synthesis"
+
 ![image](./images/image1.png)
 
 ## Preparation
